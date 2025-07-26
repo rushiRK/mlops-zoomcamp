@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-This is an example on July 21st
+This is an example on July 26th
