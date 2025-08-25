@@ -1,0 +1,12 @@
+name: zoomcamp-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - mlflow
+  - scikit-learn
+  - pandas
+  - numpy
+  - jupyterlab
+  - xgboost
+  - hyperopt
